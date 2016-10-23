@@ -1,0 +1,26 @@
+#star-rating {
+float: right;
+padding-right: 8%;
+}
+
+#picture {
+
+float: left;
+padding-right: 5%;
+height: 350px;
+}
+
+#Sale_goods {
+float: left;
+width: 400;
+padding-left: 2%
+}
+
+#Information {
+padding-left: 5%;
+padding-right: 5%;
+}
+
+#Get-directions {
+float:left;
+}

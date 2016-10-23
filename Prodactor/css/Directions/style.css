@@ -1,0 +1,23 @@
+#Form {
+float: left;
+padding-left: 5%;
+}
+
+#GoogleMap {
+float: right;
+}
+
+#left {
+float: left;
+padding-left: 5%;
+
+}
+
+#Right {
+float: right;
+padding-right: 45%;
+}
+
+#bottom {
+padding-left: 5%;
+}

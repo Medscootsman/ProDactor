@@ -1,0 +1,45 @@
+#top {
+height: 150px;
+
+background-color:#060629;
+color: white;
+
+}
+
+body {
+background-color: grey;
+
+}
+
+#FiltersLimits {
+	float: right;
+	background-color:#04223D;
+	width: 300px;
+	height: 150px;
+}
+
+#Searchbar {
+	float: left;
+	width: 800px;
+
+}
+
+#title {
+	width:250px;
+	float: left;
+	height:55px;
+}
+
+#Search {
+	color:black;
+}
+
+#submitbutton {
+	color:black;
+}
+
+#Results {
+	background-color: grey;
+	color: black;
+}
+

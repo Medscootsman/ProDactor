@@ -1,0 +1,47 @@
+#Header {
+	float: left;
+	background-color:#060629;
+}
+
+#Browse_button {
+	float: right;
+	padding-right: 5%;
+}
+
+#GoogleMap {
+	float: right;
+	padding-right: 25%;
+}
+
+#Search_and_Filters {
+	padding-left:5%;
+	background-color:#04223D;
+}
+
+#searchButton {
+	width: 60px;
+	height: 25px;
+	background-color:white;
+	color: black;	
+}
+
+#Middle {
+	float:left;
+}
+
+#Search_and_Filters {
+	float: left;
+	width: 270px;
+	color: black;
+}
+#Directions {
+	float: right;
+	padding-right: 10%;
+	width: 208px;
+}
+
+#Bottom {
+	width: 600px;
+	float: right;
+	
+}
