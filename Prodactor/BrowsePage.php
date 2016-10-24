@@ -66,7 +66,7 @@
 
 echo "<br>"; // makes it look less clustered together.
  // Select the database.
- @ $db = new mysqli("localhost","root","Davidson!55", "prodactor");
+ @ $db = new mysqli("us-cdbr-azure-southcentral-f.cloudapp.net","bcdbd63fb87dec","7e5a09ea", "prodactor");
 
   if (mysqli_connect_errno()) 
   {
